@@ -10,4 +10,22 @@ Bear in mind our user base: teachers who have to optimize very moment of their t
 
 Each action has to be instantaneous. Every page load and data manipulation has to be super fast, less than 100ms. If an action does not meet that requirement, then it is either not ready for production, or the process has to be rethought.
 
-**Example**: loading a page of grades. For large classes this might become an issue, especially deep in the year, and if the teacher wants to see, let's say, two and a half quarters of a class of 100 students, 
+**Example**: loading a page of grades. For large classes this might become an issue, especially deep in the year, and if the teacher wants to see, let's say, two and a half quarters of a class of 100 students. In this case lazy loading will have to be absolutely necessary, and an ordering priority will have to be observed: interface, close data, far data, etc.
+
+### Keyboard-centric
+
+The user should be able to control the entire application without touching either the mouse or the arrow keys.
+
+To keep things accessible, we must make sure that the application is accessible with the mouse (and the arrow keys), but the main focus should be on the keyboard and the home row. Having the ability to change the keybindings might be beneficial, and having the ability to import and export the bindings would also be beneficial.
+
+### Command Palette
+
+Having all of the commands available from a search that can be accessed from anywhere in the application.
+
+### Simple Menu
+
+The navigation for most LMS tends to be either too crowded and overwhelming, or too simplistic and unintuituve.
+
+## Development
+
+**Dec. 20, '22** 📖 We have no releases yet, and are just starting this project.
