@@ -1,4 +1,4 @@
-# Slate
+# Slate 👨🏻‍🏫
 
 A new Learning Management System. Canvas, Blackboard, Moodle, they all fall short in some way or another. This web application strives to solve all the issues found in all of these systems.
 
