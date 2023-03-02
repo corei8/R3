@@ -26,6 +26,14 @@ Having all of the commands available from a search that can be accessed from any
 
 The navigation for most LMS tends to be either too crowded and overwhelming, or too simplistic and unintuituve.
 
+### Markdown everything
+
+There is no distinction between quizzes, assignments and pages. They all start as markdown files from the same starting point, and are slef-organized via tags, content (quizzes have quiz-content, pages have no quiz content) and date. This will eliminate the need for three different user interfaces, three different categories, three different links, etc., something which is quite confusing in other tools. (For example, in Canvas the quizzes can be used as assignments, which is really confusing, since you can create a quiz and grade it like an assignment, but weigh it like a test. Too many similar names and too many distinctions.)
+
+---
+
 ## Development
 
-**Dec. 20, '22** 📖 We have no releases yet, and are just starting this project.
+| Date | Note |
+|:--|:--|
+| **Dec. 20, '22** | 📖 We have no releases yet, and are just starting this project.| 
